@@ -1,0 +1,78 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: content-box;
+}
+
+
+
+nav /* do menu de navegação*/ {
+    background-color:black ;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+a{
+    text-decoration:none ;
+    color: #ccfe32;
+}
+
+#logo{
+    width: 150px;
+    
+}
+
+#seção-principal{
+    background-color:#49556a ;
+    font-size: 30px;
+    text-align: center;
+}
+
+#personagens-principais{
+    background-color: #9cbd77;
+    width: 100%;
+    height: 600px;
+}
+
+.img-personagens{
+    width: 300px;
+    
+}
+
+.article-personagens{
+    width: 400px;
+    height: 200px;
+    background-color: aqua;
+    margin: 20px;
+    display: inline-block;
+}
+
+#temporadas-favoritas{
+    background-color: #ccfe32;
+    width: 100%;
+    height: 500px;
+}
+
+.img-temporadas{
+    width: 300px;
+}
+
+.article-temporadas{
+    width: 400px;
+    height: 300px;
+    margin: 30px;
+    background-color: aqua;
+    display: inline-block;
+}
+
+
+
+
+footer /*estilo do rodape*/{
+    background-color: #49556a;
+    font-size: 20px;
+    text-align: center;
+}
+
+
